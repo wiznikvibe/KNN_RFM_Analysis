@@ -1,0 +1,7 @@
+> Customer segmentation using RFM model
+> Collect Data Insights
+> EDA
+> Data Modelling Approach
+> Best fit for Modelling and Segmentation
+> Please find out the customers who are 'champions', 'Potential customers' and 'need attention'  
+ 
